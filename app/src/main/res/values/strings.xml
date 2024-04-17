@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsNow</string>
+    <string name="general">GENERAL</string>
+    <string name="business">BUSINESS</string>
+    <string name="sports">SPORTS</string>
+    <string name="technology">TECHNOLOGY</string>
+    <string name="health">HEALTH</string>
+    <string name="science">SCIENCE</string>
+    <string name="entertainment">ENTERTAINMENT</string>
+</resources>
